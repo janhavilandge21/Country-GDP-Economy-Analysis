@@ -55,7 +55,11 @@ This project focuses on exploring and analyzing global economic indicators using
 1. Clone the repository:
    ```bash
    git clone https://github.com/janhavilandge21/Country-GDP-Economy-Analysis.git
+
+2.Install required packages:   
 pip install pandas numpy matplotlib seaborn jupyter
+
+3.Run the Jupyter notebook:
 jupyter notebook Country_GDP_Economy_Analysis.ipynb
 
 🧠 Future Work
